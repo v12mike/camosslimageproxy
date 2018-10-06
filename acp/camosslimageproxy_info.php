@@ -23,7 +23,7 @@ class camosslimageproxy_info
 			'version'	=> '1.1.0',
 			'modes'		=> array(
 				'config'	=> array('title' => 'ACP_CSIP_CONFIG', 
-									 'auth' => 'ext_phpbb/camosslimageproxy', 
+									 'auth' => 'ext_phpbb/camosslimageproxy && acl_a_board', 
 									 'cat'	=> array('CSIP_EXT')),
 			),
 		);
