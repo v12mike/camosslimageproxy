@@ -1,5 +1,7 @@
 # phpBB Camo SSL Image Proxy Extension
 
+## This Extension is obsolete, replaced by https://github.com/v12mike/imageredirect
+
 This is the repository for the development of the phpBB Camo SSL Image Proxy Extension.
 
 ## Quick Install
